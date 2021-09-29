@@ -8,6 +8,6 @@ DALAPICOLLA, Jeronymo; LEITE, Yuri Luiz Reis. Historical connections among river
 
 
 Here we implemented this methodolody in Python, using arcpy module. Do you need ArcGIS installed and also the toolboxes Analysis Tools, Spatial Analist Tools, Data
-Management Tools. Scrips were built in collaboration with H. Seibel Jr.
+Management Tools. Scripts were built in collaboration with H. Seibel Jr.
 
 Tutorial is in Portuguese, however I'm working on a English version and using QGIS and GRASS to avoid arcpy module. 
